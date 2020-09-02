@@ -1,0 +1,4 @@
+﻿  Projectile.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  C:\OpenHaptics\Academic\3.2\utilities_MVS2017\include\GL/glut.h(34): note: see previous definition of 'CALLBACK'
+  KNAVETest.vcxproj -> C:\Users\amcartay\Desktop\App2\ENSF545Project\TargetShootingVr\x64\Release\TargetShootingVr.exe
